@@ -1,9 +1,5 @@
 ## Hi, I'm [Mohammad Faizan Sazu]👋
 
-</a>
-<br/>
-<br/>
-
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
